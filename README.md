@@ -16,9 +16,8 @@ Follow these steps to prepare and use your development environment:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Jourdan0803/ids706-w1.git
    ```
-   Replace `<repository-url>` with the actual URL of the repository.
 
 2. **Open in VS Code**:
    Open the cloned repository folder in Visual Studio Code.
@@ -31,6 +30,7 @@ Follow these steps to prepare and use your development environment:
 
 5. **Development Environment Ready**:
    Once the container setup is complete, you will have a fully configured Python development environment ready for use.
+
 
 ### Running Tests
 
@@ -62,4 +62,5 @@ Here is an overview of important files and directories in the repository:
 
 ---
 
-This revised README provides clear, step-by-step instructions and organizes information in a structured manner, making it easier for users to set up their environment and understand the project layout. Adding direct links to download necessary software and a brief description of each major file and directory enhances the documentation's utility and user-friendliness.
+
+
